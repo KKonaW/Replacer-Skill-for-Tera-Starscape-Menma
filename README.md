@@ -12,7 +12,7 @@ https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skill
 
 
 --- | ---
-## Job = Class ID
+## Job = Class ID |
 (example)
 Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
 
