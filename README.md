@@ -6,7 +6,9 @@ Compatible with Skill-Prediction, Ping Remover and NGSP
 rs | Turn module on/off
 reload | reload the modified skills.js file content
 
-To add more skills go to folder class to find skill IDs or here https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skills-EU-EN.tsv
+To add more skills go to folder class to find skill IDs or here 
+
+https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skills-EU-EN.tsv
 
 Job = Class ID 
 Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Sorcerer 4 / Archer 5 / Priest 6 / Mystic 7 / Reaper 8 / Gunner 9 / Brawler 10 / Ninja 11 / Valkyrie 12
