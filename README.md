@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skill
 Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
 
 ## Group = First digits of the skill ID
-(exaplample) 
+(example) 
 / group 1 = 10000 and group 40 = 400000
 
 ## Last two digits of skill ID  
