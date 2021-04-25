@@ -1,4 +1,6 @@
-// 00 normal skill / 10 target skill / 30 buffed skill
+//Last two digits of skill number meaning
+
+//00 normal skill / 10 target skill / 30 buffed skill
 module.exports = [
 // 0-warrior 
 
