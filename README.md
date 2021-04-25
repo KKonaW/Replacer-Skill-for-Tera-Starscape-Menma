@@ -6,7 +6,7 @@ Compatible with Skill-Prediction, Ping Remover and NGSP
 rs | Turn module on/off
 reload | reload the modified skills.js file content
 
-To add more skills go to folder class to find skill IDs or here 
+-To add more skills go to folder class to find skill IDs or here 
 
 https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skills-EU-EN.tsv
 
@@ -16,7 +16,7 @@ Group = First digits of the skill ID for exaplample / group 1 = 10000 and group 
 // 00 normal skill / 10 target skill / 30 buffed skill
 { job: 2, group: 1, enabled: true, to: 11200, instance: true, replace: true},
 
-To Enable or Disble skills go to "skill.js" and add or remove /* at the start of the skill and close it with */ 
+-To Enable or Disble skills go to "skill.js" and add or remove /* at the start of the skill and close it with */ 
 
 
 
