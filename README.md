@@ -7,7 +7,7 @@ rs | Turn module on/off
 reload | reload the modified skills.js file content
 
 
-## -To Enable or Disble skills go to "skill.js" and add or remove /* and  */  and them /8 reload
+## -To Enable or Disble skills go to "skill.js" and add or remove /* and  */ 
 
 
 (example)
