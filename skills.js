@@ -18,7 +18,9 @@ module.exports = [
 { job: 0, group: 42, enabled: true, to: 420130, instance: true, replace: true}, //Warrior -> Blade Frensy SpeedCast
 
 
-// 1-lancer 
+// 1-lancer
+
+/*{ job: 1, group: 3, enabled: true, to: 30200, instance: true, replace: true},*/ //Lancer -> Onslaught SpeedCast (dsync issue??)
 { job: 1, group: 5, enabled: true, to: 50130, instance: true, replace: true}, //Lancer -> Shield Bash SpeedCast
 { job: 1, group: 10, enabled: true, to: 100330, instance: true, replace: true}, //Lancer -> Debilitate SpeedCast
 { job: 1, group: 13, enabled: true, to: 131130, instance: true, replace: true}, //Lancer -> Spring Attack SpeedCast
