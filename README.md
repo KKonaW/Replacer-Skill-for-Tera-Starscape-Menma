@@ -36,8 +36,7 @@ Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
 (example) 
 group 1 = 10000 and group 40 = 400000
 
-## Skill ID  
-https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skills-EU-EN.tsv
+## Skill IDs 
 
 ```
 
