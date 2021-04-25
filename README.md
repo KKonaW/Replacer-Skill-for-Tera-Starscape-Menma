@@ -17,9 +17,11 @@ Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
 
 -Group = First digits of the skill ID for exaplample / group 1 = 10000 and group 40 = 400000
 
+-Meaning of the las two digits of skill ID
 // 00 normal skill / 10 target skill / 30 buffed skill
 
-{ job: 2, group: 1, enabled: true, to: 11200, instance: true, replace: true},
+(example)
+{ job: 2, group: 20, enabled: true, to: 212000, instance: true, replace: true},
 
 -To Enable or Disble skills go to "skill.js" and add or remove /* at the start of the skill and close it with */ 
 
