@@ -10,7 +10,7 @@ reload | reload the modified skills.js file content
 
 https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skills-EU-EN.tsv
 
-
+```
 ## Job = Class ID 
 (example)
 Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
