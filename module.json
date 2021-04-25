@@ -4,8 +4,8 @@
         "niceName": "ethical",
         "guiName": "ethical"
     },
-    "author": "Psykokiller",
-    "description": "Skill-Replacer by Psykokiller/zc149352394",
+    "author": "Zc149352394 and Psykokiller",
+    "description": "Skill-Replacer by Psykokiller/Zc149352394",
     "version": "102.2",
     "servers": ["https://raw.githubusercontent.com/KKonaW/ethical/master/"],
     "disableAutoUpdate": true
