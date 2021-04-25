@@ -10,12 +10,13 @@ reload | reload the modified skills.js file content
 
 https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skills-EU-EN.tsv
 
--Job = Class ID 
-
+## Job = Class ID
+(example)
 Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
 
-
--Group = First digits of the skill ID for exaplample / group 1 = 10000 and group 40 = 400000
+## Group = First digits of the skill ID
+(exaplample) 
+/ group 1 = 10000 and group 40 = 400000
 
 -Meaning of the las two digits of skill ID
 // 00 normal skill / 10 target skill / 30 buffed skill
