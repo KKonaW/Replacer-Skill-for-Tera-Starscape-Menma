@@ -24,6 +24,10 @@ reload | reload the modified skills.js file content
 https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skills-EU-EN.tsv
 
 ```
+Adding skills forgat 
+{ job: 2, group: 20, enabled: true, to: 212000, instance: true, replace: true},
+
+
 ## Job = Class ID 
 (example)
 Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
@@ -35,8 +39,6 @@ Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
 ## Last two digits of skill ID  
 // 00 normal skill / 10 target skill / 30 buffed skill
 
-(example)
-{ job: 2, group: 20, enabled: true, to: 212000, instance: true, replace: true},
 ```
 
 
