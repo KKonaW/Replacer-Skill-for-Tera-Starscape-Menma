@@ -18,7 +18,7 @@ Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
 (exaplample) 
 / group 1 = 10000 and group 40 = 400000
 
--Meaning of the las two digits of skill ID
+## Last two digits of skill ID  
 // 00 normal skill / 10 target skill / 30 buffed skill
 
 (example)
