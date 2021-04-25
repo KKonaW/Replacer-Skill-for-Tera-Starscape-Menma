@@ -56,13 +56,13 @@ module.exports = [
 { job: 4, group: 36, enabled: true, to: 360600, instance: true, replace: true}, //Sorc -> Fusion
 { job: 4, group: 34, enabled: true, to: 340230, instance: true, replace: true}, //Sorc -> Mana Boost (not for replacing purposes)
 { job: 4, group: 4, enabled: true, to: 330112, instance: true, replace: true}, //Sorc -> Arcane Pulse -> Apex
-{ job: 4, group: 6, enabled: true, to: 320100, instance: true, replace: true}, //Sorc -> Fireblast -> Apex
+/*{ job: 4, group: 6, enabled: true, to: 320100, instance: true, replace: true},*/ //Sorc -> Fireblast -> Apex
 
 // 5-archer 
 { job: 5, group: 1, enabled: true, to: 11200, instance: true, replace: true}, // Arrow Shot XII -> only the first segment
 { job: 5, group: 3, enabled: true, to: 31113, instance: true, replace: true}, // Radiant Arrow - > IV Charge
 { job: 5, group: 4, enabled: true, to: 41213, instance: true, replace: true}, // Penetrating Arrow - > IV Charge
-/*{ job: 5, group: 29, enabled: true, to: 291000, instance: true, replace: true},*/ // ThunderBolt - > ??
+/*{ job: 5, group: 29, enabled: true, to: 291000, instance: true, replace: true},*/ // ThunderBolt - > 
 
 
 // 6-priest
