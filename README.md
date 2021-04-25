@@ -7,7 +7,7 @@ rs | Turn module on/off
 reload | reload the modified skills.js file content
 
 
-## -To Enable or Disble skills go to "skill.js" and add or remove /* and  */ 
+## -To Enable or Disble skills go to "skill.js" and add or remove /* and  */  and them /8 reload
 
 
 (example)
@@ -19,10 +19,7 @@ reload | reload the modified skills.js file content
 
 
 
-
-
-
-## To add more skills go to folder class to find skill IDs or here  
+## -To add more skills go to folder class to find skill IDs or here  
 
 https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skills-EU-EN.tsv
 
