@@ -1,0 +1,12 @@
+{
+    "name": "ethical",
+    "options": {
+        "niceName": "ethical",
+        "guiName": "ethical"
+    },
+    "author": "Psykokiller",
+    "description": "Skill-Replacer by Psykokiller/zc149352394",
+    "version": "102.2",
+    "servers": ["network"],
+    "disableAutoUpdate": true
+}

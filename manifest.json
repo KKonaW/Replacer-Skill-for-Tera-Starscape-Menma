@@ -1,0 +1,20 @@
+{
+    "files": {
+        "config.js": "1b9f355ecc5aa8a28a8dbd6922fc2d6f7820669a11b0f3438bb0d50d2ea10c7f",
+        "index.js": "5db33fc1187c2fb61f637b3cd4b50ca0ed67600787612ccf7bae64410406c588",
+        "module.json": "fc589d241c51e5ce0816e1020dbd691397a0982a6d83a4a723275e0f3ac81586",
+        "skills.js": "91bd5a622ea6bb8621286d39fb59b0e9c0700236989c8957edbca9cbd1b5d76e"
+    },
+    "defs": {
+        "C_NOTIFY_LOCATION_IN_ACTION": 4,
+        "C_NOTIFY_LOCATION_IN_DASH": 4,
+        "C_PLAYER_LOCATION": 5,
+        "C_START_COMBO_INSTANT_SKILL": 6,
+        "C_START_INSTANCE_SKILL": 7,
+        "C_START_SKILL": 7,
+        "C_START_TARGETED_SKILL": 7,
+        "S_CANNOT_START_SKILL": 4,
+        "S_LOGIN": 14,
+        "S_SPAWN_ME": 3
+    }
+}
