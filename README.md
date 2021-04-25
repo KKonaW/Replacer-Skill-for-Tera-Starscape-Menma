@@ -43,5 +43,4 @@ group 1 = 10000 and group 40 = 400000
 
 
 
-
 ## Credits to Zc149352394 and Psykokiller
