@@ -24,8 +24,8 @@ reload | reload the modified skills.js file content
 https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/skills/skills-EU-EN.tsv
 
 ```
-Adding skills forgat 
-{ job: 2, group: 20, enabled: true, to: 212000, instance: true, replace: true},
+Adding skills format
+{ job: 2, group: 20, enabled: true, to: 212000, instance: true, replace: true}, // Skill description
 
 
 ## Job = Class ID 
