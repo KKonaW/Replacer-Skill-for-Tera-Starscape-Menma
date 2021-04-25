@@ -27,7 +27,7 @@ Warrior  0 / Lancer 1 / Slayer 2 / Berserker 3 / Etc....
 
 ## -To Enable or Disble skills go to "skill.js" and add or remove /* and  */ 
 
-
+```
 (example)
 
 
