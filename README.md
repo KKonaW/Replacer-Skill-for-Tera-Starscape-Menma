@@ -7,4 +7,4 @@ rs | Turn module on/off
 reload | reload the modified skills.js file content
 
 
-## Credits to Zc149352394 and Psykokiller
+## Forked from Zc149352394 and Psykokiller
