@@ -1,12 +1,12 @@
 {
-    "name": "ethical",
+    "name": "<font color='#FDD017'>Replacer-Skill</font>",
     "options": {
-        "niceName": "ethical",
-        "guiName": "ethical"
+        "niceName": "<font color='#FDD017'>Replacer-Skill</font>",
+        "guiName": "<font color='#FDD017'>Replacer-Skill</font>"
     },
     "author": "Zc149352394 and Psykokiller",
-    "description": "Skill-Replacer by Psykokiller/Zc149352394",
+    "description": "Replacer-Skill by Psykokiller/Zc149352394",
     "version": "102.2",
-    "servers": ["https://raw.githubusercontent.com/KKonaW/ethical/master/"],
+    "servers": ["https://raw.githubusercontent.com/KKonaW/Replacer-Skill/master/"],
     "disableAutoUpdate": true
 }
