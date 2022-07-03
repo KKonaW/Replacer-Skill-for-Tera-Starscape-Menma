@@ -1,5 +1,5 @@
 ## Compatible with Skill-Prediction, Ping Remover and NGSP 
-
+Enjoy being a God
 ------
 /8 channel or ! Command | effect description
 --- | ---
