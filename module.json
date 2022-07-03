@@ -1,12 +1,12 @@
 {
-    "name": "<font color='#FDD017'>Replacer-Skill</font>",
+    "name": "Skill",
     "options": {
-        "niceName": "<font color='#FDD017'>Replacer-Skill</font>",
-        "guiName": "<font color='#FDD017'>Replacer-Skill</font>"
+        "niceName": "Skill",
+        "guiName": "<font color='#D12C2C'>Skill</font>"
     },
-    "author": "Zc149352394 and Psykokiller",
-    "description": "Replacer-Skill by Psykokiller/Zc149352394",
-    "version": "102.2",
-    "servers": ["https://raw.githubusercontent.com/KKonaW/Replacer-Skill/master/"],
+    "author": "<font color='#FDD017'>AOC 2024</font>",
+    "description": "==",
+    "version": "<font color='#FC0FC0'>GF-100.02</font>",
+    "servers": ["https://raw.githubusercontent.com/KKonaW/Skill/master/"],
     "disableAutoUpdate": true
 }
