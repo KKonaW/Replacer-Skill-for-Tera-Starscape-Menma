@@ -1,6 +1,8 @@
 ## Compatible with Skill-Prediction, Ping Remover and NGSP 
 If you want to enable/disabble or add more skills,open skills.js use /*  */ 
+
 Enjoy being a God
+
 ------
 /8 channel or ! Command | effect description
 --- | ---
