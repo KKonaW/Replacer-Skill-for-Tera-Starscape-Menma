@@ -25,7 +25,7 @@ module.exports = [
 { job: 1, group: 5, enabled: true, to: 50130, instance: true, replace: true}, //Lancer -> Shield Bash SpeedCast
 { job: 1, group: 10, enabled: true, to: 100330, instance: true, replace: true}, //Lancer -> Debilitate SpeedCast
 { job: 1, group: 13, enabled: true, to: 131130, instance: true, replace: true}, //Lancer -> Spring Attack SpeedCast
-{ job: 1, group: 18, enabled: true, to: 181101, instance: true, replace: true}, //Lancer -> Shield Barrage SpeedCast + No CD
+{ job: 1, group: 18, enabled: true, to: 181101, instance: true, replace: true}, //Lancer -> Shield Barrage SpeedCast + No CD (dsync issue??)
 { job: 1, group: 21, enabled: true, to: 210402, instance: true, replace: true}, //Lancer -> Lockdown Blow
 { job: 1, group: 25, enabled: true, to: 251030, instance: true, replace: true}, //Lancer -> Wallop SpeedCast
 { job: 1, group: 28, enabled: true, to: 280101, instance: true, replace: true}, //Lancer -> Super Leap SpeedCast
@@ -43,8 +43,8 @@ module.exports = [
 { job: 2, group: 26, enabled: true, to: 260130, instance: true, replace: true}, //Slayer -> Punishing Blow SpeedCast
 
 
-// 3-berserker
-/*
+// 3-berserker (untested)
+/* 
 { job: 3, group: 3, enabled: true, to: 31113, instance: true, replace: true},   // Thunder Strike - > IV Charge
 { job: 3, group: 10, enabled: true, to: 101113, instance: true, replace: true}, // Cyclone - > IV Charge
 { job: 3, group: 32, enabled: true, to: 320101, instance: true, replace: true}, // Punishing Strike - > No CD
@@ -59,14 +59,15 @@ module.exports = [
 { job: 4, group: 36, enabled: true, to: 360600, instance: true, replace: true}, //Sorc -> Fusion
 { job: 4, group: 34, enabled: true, to: 340230, instance: true, replace: true}, //Sorc -> Mana Boost (not for replacing purposes)
 { job: 4, group: 4, enabled: true, to: 330112, instance: true, replace: true}, //Sorc -> Arcane Pulse -> Apex
-/*{ job: 4, group: 6, enabled: true, to: 320100, instance: true, replace: true},*/ //Sorc -> Fireblast -> Apex
+{ job: 4, group: 6, enabled: true, to: 320100, instance: true, replace: true}, //Sorc -> Fireblast -> Apex
 
-// 5-archer 
+// 5-archer (untested)
+/*
 { job: 5, group: 1, enabled: true, to: 11200, instance: true, replace: true}, // Arrow Shot XII -> only the first segment
 { job: 5, group: 3, enabled: true, to: 31113, instance: true, replace: true}, // Radiant Arrow - > IV Charge
 { job: 5, group: 4, enabled: true, to: 41213, instance: true, replace: true}, // Penetrating Arrow - > IV Charge
-/*{ job: 5, group: 29, enabled: true, to: 291000, instance: true, replace: true},*/ // ThunderBolt - > 
-
+{ job: 5, group: 29, enabled: true, to: 291000, instance: true, replace: true}, // ThunderBolt - > 
+*/ 
 
 // 6-priest
 

@@ -1,12 +1,12 @@
 {
-    "name": "Skill",
+    "name": "Replacer-Skill",
     "options": {
-        "niceName": "Skill",
-        "guiName": "<font color='#D12C2C'>Skill</font>"
+        "niceName": "Replacer-Skill",
+        "guiName": "<font color='#D12C2C'>Replacer-Skill</font>"
     },
     "author": "<font color='#FDD017'>AOC 2024</font>",
     "description": "==",
-    "version": "<font color='#FC0FC0'>GF-100.02</font>",
-    "servers": ["https://raw.githubusercontent.com/KKonaW/Skill/master/"],
+    "version": "<font color='#FC0FC0'>GF-100.2</font>",
+    "servers": ["https://raw.githubusercontent.com/KKonaW/Replacer-Skill-for-Tera-Starscape-Menma/master/"],
     "disableAutoUpdate": true
 }
