@@ -10,4 +10,9 @@ rs | Turn module on/off
 reload | reload the modified skills.js file content
 
 
-## Forked from Zc149352394 and Psykokiller
+## Forked from Zc149352394, Psykokiller, Salchy and KYGAS
+
+
+
+Toolbox Patch 100.02 64bots 
+https://github.com/KYGAS/toolbox-p100.02-64bit
