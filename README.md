@@ -14,5 +14,5 @@ reload | reload the modified skills.js file content
 
 
 
-Toolbox Patch 100.02 64bots 
+Toolbox
 https://github.com/KYGAS/toolbox-p100.02-64bit
